@@ -1,3 +1,10 @@
+/*
+Project: Wallet Management System
+Author: amjad hafez
+Date: 1-Feb-2026
+Version: Final Submission
+*/
+
 #include<iostream>
 #include<string.h>
 #include <Windows.h>
